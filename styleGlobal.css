@@ -67,11 +67,24 @@ footer{
     border: 2px solid black;
 
 }
-.item4 , .item5, .item6 {
+.item4 {
     
     text-align: center;
     padding: 10px;
     background-color: aquamarine;
+    border: 2px solid black;
+}
+
+.item5{
+    text-align: center;
+    padding: 10px;
+    background-color: brown;
+    border: 2px solid black;
+}
+.item6 {
+    text-align: center;
+    padding: 10px;
+    background-color: hotpink;
     border: 2px solid black;
 }
  .flex-container {
